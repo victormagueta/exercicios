@@ -2,6 +2,7 @@
 
 from random import choice
 from time import sleep
+
 sorteio = []
 nome = input('Qual o nome da pessoa que vai participar do sorteio? ')
 resp = input('Outra pessoa irá participar do sorteio? Sim ou não? ').lower()

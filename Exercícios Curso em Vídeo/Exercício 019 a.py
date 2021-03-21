@@ -12,7 +12,7 @@ sorteio = [aluno_1, aluno_2, aluno_3, aluno_4]
 escolhido = choice(sorteio)
 
 print(f'Os alunos que estão participando do sorteio são {sorteio}')
-sleep(0.5)
+sleep(2)
 print('O aluno escolhido foi...')
 sleep(0.5)
 print('.' * 3)
